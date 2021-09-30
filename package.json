@@ -15,5 +15,14 @@
   "bugs": {
     "url": "https://github.com/discord-taisaku/Taisaku-Origins/issues"
   },
-  "homepage": "https://github.com/discord-taisaku/Taisaku-Origins#readme"
+  "homepage": "https://github.com/discord-taisaku/Taisaku-Origins#readme",
+  "devDependencies": {
+    "@types/node": "^16.10.2",
+    "typescript": "^4.4.3"
+  },
+  "dependencies": {
+    "@discordjs/collection": "^0.2.1",
+    "discord-api-types": "^0.23.1",
+    "eris": "^0.15.1"
+  }
 }
